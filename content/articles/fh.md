@@ -1,0 +1,13 @@
+---
+title: 战马
+cover: /articles/get-started.webp
+author:
+  name: ym
+  avatarUrl: https://pbs.twimg.com/profile_images/1042510623962275840/1Iw_Mvud_400x400.jpg
+  link: https://twitter.com/atinux
+date: 2026-03-15 23:37:00
+description: 这是一篇文章
+layout: article
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/asKQbk7AcJU" title="崔伟立原唱《战马》完整版 歌曲旋律优美，句句入耳入心超好听" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
